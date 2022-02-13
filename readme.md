@@ -1,1 +1,2 @@
- To complete installation, set the Java executable to "/Users/yiken/Library/Application Support/minecraft/mac-runtime-patch/java-runtime-beta/mclaunch" for Java 17, "/Users/yiken/Library/Application Support/minecraft/mac-runtime-patch/java-runtime-alpha/mclaunch" for Java 16, or "/Users/yiken/Library/Application Support/minecraft/mac-runtime-patch/jre-legacy/mclaunch" for Java 8.
+# Minecraft Scroll Fix for MacOS
+run the sh file and set runtime in minecraft launcher.
